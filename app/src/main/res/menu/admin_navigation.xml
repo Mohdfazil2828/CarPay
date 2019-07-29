@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_time_in"
+        android:icon="@drawable/ic_parking"
+        android:title="@string/time_in" />
+
+    <item
+        android:id="@+id/navigation_time_out"
+        android:icon="@drawable/ic_emergency_exit"
+        android:title="@string/time_out"/>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logouted"
+        android:title="@string/logout"/>
+</menu>

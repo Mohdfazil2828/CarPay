@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CarPay</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="already_having_account">Already Having an Account?</string>
+    <string name="login">LogIn</string>
+    <string name="not_having_account">Not Having an Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_main">CarPay</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Welcome</string>
+    <string name="back_to_login">Back to Login?</string>
+    <string name="carpay">Car Pay</string>
+    <string name="btn_user_login">User Login</string>
+    <string name="btn_admin_login">Admin Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="admin_email">Admin Email</string>
+    <string name="admin_password">Admin Password</string>
+    <string name="admin_name">Admin Name</string>
+    <string name="admin_mobile">Admin Mobile</string>
+    <string name="time_in">Time In</string>
+    <string name="time_out">Time Out</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accounts">Accounts</string>
+    <string name="notifications">Notifications</string>
+    <string name="history">History</string>
+    <string name="mall_name">Mall Name:</string>
+    <string name="mall_email">Mall Email:</string>
+    <string name="mall_telephone">Mall Telephone:</string>
+    <string name="confirm">confirm</string>
+    <string name="exit_from_mall">Exit From Mall</string>
+    <string name="you_have_logged_in_at">You have logged in at:</string>
+    <string name="you_have_logged_out_at">You have logged out at:</string>
+    <string name="you_fee_is">You fee is:</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="user_name">User Name:</string>
+    <string name="user_email">User Email:</string>
+    <string name="user_mobile">User Mobile:</string>
+    <string name="rm">RM : </string>
+    <string name="payment_successful">Payment Successful!</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="back_to_home">Back to Home!</string>
+
+
+</resources>
